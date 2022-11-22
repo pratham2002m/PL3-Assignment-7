@@ -1,0 +1,18 @@
+@media screen and (min-width: 480px) {
+    #card {
+        min-height: 60vh;
+        width: 40vw;
+    }
+    #image {
+        max-height: 50vh;
+    }
+  }
+@media screen and (max-width: 762px) {
+    #card {
+        min-height: 60vh;
+        width: 80vw;
+    }
+    #image {
+        max-height: 50vh;
+    }
+  }
